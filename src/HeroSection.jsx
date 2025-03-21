@@ -4,9 +4,11 @@ const HeroSection = () => {
   return (
     <div className="flex flex-1 bg-[url('./assets/image.png')] bg-cover items-center text-white pl-[137px]">
       <div className="flex flex-col ">
-        <div className="text-[34px] leading-8">Every piece of</div>
-        <div className="text-[56px] font-medium mb-4">Jewelry tells a story</div>
-        <p className="w-[397px] mb-[40px]">
+        <div className="text-[34px] leading-8 Jost">Every piece of</div>
+        <div className="text-[56px] font-medium mb-4 Cormorant">
+          Jewelry tells a story
+        </div>
+        <p className="w-[397px] mb-[40px] text-gray-200">
           “A gentleman knows his appearance is very important that show his
           characteristic.” - Unknown
         </p>
