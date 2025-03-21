@@ -12,7 +12,7 @@ const HeroSection = () => {
           “A gentleman knows his appearance is very important that show his
           characteristic.” - Unknown
         </p>
-        <div className="flex gap-[16px]">
+        <div className="flex gap-[16px] Jost">
           <button className="rounded-[4px] p-[12px] bg-white font-medium text-black">
             Shop Now
           </button>

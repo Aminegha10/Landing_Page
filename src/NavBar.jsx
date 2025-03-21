@@ -6,10 +6,10 @@ import { MdOutlineShoppingBag } from "react-icons/md";
 
 const NavBar = () => {
   return (
-    <div className="text-[17px] px-[180px] py-[24px] bg-white flex justify-between items-center">
+    <div className="text-[17px] px-[180px] Jost py-[24px] bg-white flex justify-between items-center">
       {/* Logo */}
       <div>
-        <h1 className="text-[36px] font-semibold">
+        <h1 className="text-[36px] font-semibold ">
           Jewelry <span className="text-[#C8815F]">.</span>
         </h1>
       </div>
